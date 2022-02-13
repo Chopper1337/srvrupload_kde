@@ -5,11 +5,8 @@ Icon=cloud-upload
 Actions=transferFile;
 Type=Service
 X-KDE-ServiceTypes=KonqPopupMenu/Plugin
-X-KDE-StartupNotify=false
-X-KDE-Priority=TopLevel
-X-KDE-Submenu=Upload to server
 
 [Desktop Action transferFile]
 Name=Upload to server (Copy link)
-Exec=sh $HOME/.local/share/kservices5/srvrupload/srvrupload.sh %f 0 0 0
+Exec=sh $HOME/.local/share/kservices5/srvrupload/srvrupload.sh %f
 Icon=cloud-upload
