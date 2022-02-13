@@ -46,6 +46,10 @@ Edit the variables such that they contain the info for your server (and domain i
 
 I have briefly described the meaning of each variable in the comments above them.
 
+## Known issues
+
+* Issues to do with files with spaces in their names.
+
 ## Info
 
 Thanks to [Jamesjon](https://www.pling.com/u/jamesjon/) for his many many Dolphin Service Menus I could follow through to learn how to write this one. for his many many scripts I could follow through to learn how to write this one.
