@@ -36,7 +36,7 @@ The install and uninstall scripts are very simple, I'll briefly outline what the
 
 Eventually I'll add this to the official KDE store thing so it's just a matter of clicking install and configuring it.
 
-## Configuration
+## Required Configuration
 
 Go to `~/.local/share/kservices5/srvrupload/` and open `srvrupload.sh` in your preferred text editor.
 
@@ -48,10 +48,10 @@ I have briefly described the meaning of each variable in the comments above them
 
 ## Known issues
 
-* Issues to do with files with spaces in their names.
+* Anything to do with special characters in the file name. (I don't yet know how to counter anything other than spaces)
 
 ## Info
 
-Thanks to [Jamesjon](https://www.pling.com/u/jamesjon/) for his many many Dolphin Service Menus I could follow through to learn how to write this one. for his many many scripts I could follow through to learn how to write this one.
+Thanks to [Jamesjon](https://www.pling.com/u/jamesjon/) for his many many Dolphin Service Menus I could follow through to learn how to write this one.
 
 Thanks to [Nevalain](https://store.kde.org/u/nevalain) for making a similar script in 2005 (Probably for KDE 3.4) which gave me the idea.
