@@ -2,8 +2,6 @@
 
 This adds an entry into the context menu for files in KDE.
 
-(I didn't actually know it would work throughout KDE, hence "Dolphin" being in the name :] )
-
 ## Installation
 
 1. Download `install.sh` from the "Install" folder of this repo.
