@@ -1,6 +1,6 @@
 # File uploading script for KDE
 
-This adds an entry into the context menu for files in KDE.
+Adds an "Upload to server" entry into the context menu for files in KDE to upload a file to a server via SFTP
 
 ## Installation
 
